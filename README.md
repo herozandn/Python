@@ -1,2 +1,2 @@
 # Python
- Meu repositório com aulas e exercícios em python
+ Meu repositório com **aulas e exercícios em python**, disponível *gratuitamente*
